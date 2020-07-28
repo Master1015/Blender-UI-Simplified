@@ -19,7 +19,7 @@ class Add3dshapesPanel(Panel):
     bl_info = {
         "name" : "Add3dshapes",
         "author" : "Kishan Mistry",
-        "description" : "",
+        "description" : "Workflow to add 3d shapes",
         "blender" : (2, 80, 0),
         "version" : (0, 0, 1),
         "location" : "3D window toolshelf > Add3dshapes tab",
