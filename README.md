@@ -17,5 +17,7 @@ This program is licensed under the General Public License v3.0(GNU)
 
 
 # Versioning
-This program uses SemVer(https://semver.org/) for versioning. For future releases of this addon please see the tags on this repository(https://github.com/Master1015/Blender-UI-Simplified/tags)
+1. Alpha (This is performed to identify bugs before releaseing the product to the public)
+2. Beta(This is where users try the product for the first time)
+3. Stable release(This is where most bugs have been fixed and new features are subject to change later on)
 
